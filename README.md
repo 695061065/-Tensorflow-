@@ -13,9 +13,9 @@
 目录结构：
 
   root：<br/>
-&nbsp;Data            #用于存放裁剪处理后的验证码图片<br/>
-        newimg          #用于存放简单处理后的验证码图片<br/>
-        update          #用于将用户上传的验证码存放在此<br/>
-        checkpro.exe    #傻瓜式检验此进程内存消耗过大，结束并重启进程<br/>
-        code.py         #源文件<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;Data            #用于存放裁剪处理后的验证码图片<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;newimg          #用于存放简单处理后的验证码图片<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;update          #用于将用户上传的验证码存放在此<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;checkpro.exe    #傻瓜式检验此进程内存消耗过大，结束并重启进程<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;code.py         #源文件<br/>
         
